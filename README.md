@@ -1,4 +1,4 @@
-### About ME 
+### Paul Nguyen
 <h3>Heading level 3</h3>
 Can use HTML and regular Markdown for same thing. 
 Stick to Markdown.
